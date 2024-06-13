@@ -1,0 +1,21 @@
+Na samej górze znajduje się rubryka, do której wpisujemy dowolną nazwe miasta, bądź Państwa na świecie,
+następnie klikamy w lupe znajdującą sie po prawej stronie.
+
+Funkcje:
+- Ikona przypisana do aktualnej pogody
+- Temperatura (w stopniach celsjusza)
+- Nazwa znalezionej lokalizacji
+- Warunki atmosferyczne 
+- Data, godzina w której dane występują (dd.mm.rrrr , GG:MM:SS)
+- Wilgotność powietrza (w %)
+- Predkość wiatru (w km/h)
+
+Na bokach znajdują sie dwie strzałki 
+w prawo - przesuwa o 24h do przodu
+w lewo - przesuwa o 24h w tył
+na samym dole znajduje się suwak, którym możemy manipulować godziną o 3 godziny.
+
+Aplikacja wyświetla dane na kolejne 4dni, zależało mi na konkretnych godzinach i bardziej
+szczegółowej pogodzie. 
+Api które odsyłało dane na dłuższy okres czasu, nie dawało możliwości wglądu w poszczególne godziny.
+
